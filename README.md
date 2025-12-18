@@ -1,6 +1,6 @@
 # nekobako-plugin-utils 
 
-A simple library that makes my life easier while making plugins for skyline - Creates configs and checks BUILD INFO for ``Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~``
+A simple library that makes my life easier while making plugins for skyline - Creates/Manages configs using [skyline-config](https://github.com/skyline-rs/skyline-config) and checks BUILD INFO for ``Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~``
 
 ``Title ID:01006A300BA2C000``
 
