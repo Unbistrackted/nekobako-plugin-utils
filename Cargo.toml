@@ -1,0 +1,15 @@
+[package]
+name = "nekobako-plugin-utils"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+skyline = "0.5.1"
+skyline-config = { git = "https://github.com/skyline-rs/skyline-config", branch = "master", features = [
+    "yaml",
+] }
+smart-default = "0.7.1"
+serde = { version = "1.0", features = ["derive"] }
+serde_repr = "0.1"
+once_cell = "1.21.3"
+lazy_static = "1.4"
